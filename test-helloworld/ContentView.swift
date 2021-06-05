@@ -1,7 +1,6 @@
     //
     //  ContentView.swift
-    //  test-helloworld
-    //
+    //  Simple Login Page by Reggie Gunawan
     //  Created by TI Digital on 04/06/21.
     //
 
